@@ -1,3 +1,13 @@
 .kiv {
     background-color: antiquewhite;
 }
+.tartalom{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card img{
+    width: 100%;
+}
+.card:hover{
+    background-color: aqua;
+}
